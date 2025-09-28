@@ -1,0 +1,2 @@
+# AIShoppingOCR
+AI Shopping OCR
