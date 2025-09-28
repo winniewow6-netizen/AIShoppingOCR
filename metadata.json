@@ -1,0 +1,7 @@
+{
+  "name": "Shopping History Analyzer",
+  "description": "An application to capture product photos, extract pricing information using OCR, record the date and GPS location, and save the data for price comparison.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
